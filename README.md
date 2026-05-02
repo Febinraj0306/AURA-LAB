@@ -52,4 +52,4 @@ The site employs `motion/react` for smooth, cinematic motion:
 - Coordinated fade-ins on scroll to maintain a sophisticated pace.
 
 ## License
-Private and confidential. All rights reserved.
+Private and confidential AURA LABS. All rights reserved.
